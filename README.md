@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋😄
+
+Feel free to look at my repos and report any bugs. I hope my projects are helpful!
 
 <!--
 **srivardhansajja/srivardhansajja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
